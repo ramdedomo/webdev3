@@ -1,0 +1,116 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+}
+
+.navbar-container {
+    padding-top: 50px;
+}
+
+.nav-item {
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+h1 {
+    font-size: 50px;
+    line-height: 1.5;
+    padding: 10px;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+h5 {
+    color: white;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+
+
+#title {
+    background-image: linear-gradient(#506186, #262e41);
+}
+
+#title2 {
+    background-color: #252525;
+
+}
+
+
+#title3 {
+    background-color: #cfb7b7;
+
+}
+
+
+.artworks {
+    font-size: 30px;
+    color: white;
+    padding-top: 10px;
+}
+
+
+.whois {
+    font-size: 30px;
+    color: white;
+    padding-top: 100px;
+}
+
+
+.second {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+
+.btn_styles {
+    margin-right: 10px;
+    margin-bottom: 50px;
+}
+
+
+
+
+.text{
+    color: white;
+
+}
+
+
+.textauto{
+    color: white;
+    padding-bottom: 100px;
+
+}
+
+
+.navbuttons {
+    margin-left: 10px;
+}
+
+.some{
+    color: white;
+}
+
+
+.logo {
+   margin-top: 50px;
+}
+
+
+footer {
+    background-color: white;
+}
+
+.gallery {
+    margin: 20px;
+}
+
+
